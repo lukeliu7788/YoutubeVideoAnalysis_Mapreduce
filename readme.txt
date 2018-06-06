@@ -1,4 +1,5 @@
-The two folder contiants project for mapreduce and spark respectively.
+This project use Mapreduce and Spark do the analysis with the Trending Youtube Video Statistics data from Kaggle.
+DataSet: https://www.kaggle.com/datasnaek/youtube-new
 
 In the mapreduce folder, cou_driver.sh is use to ran the mapreduce programming.which need four input. The usage pattern is like below:
 Usage: ./cou_driver.sh [input_location] [output_location] [country1] [country2]
